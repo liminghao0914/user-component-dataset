@@ -1,0 +1,5961 @@
+[{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026439990"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622026440004"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026439998"
+  },
+  "runtime": 21,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026439982"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026439994"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440004"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026439977"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440009"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026439986"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622026440014"
+  },
+  "runtime": 55,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622026440024"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622026439955"
+  },
+  "runtime": 6,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440012"
+  },
+  "runtime": 8,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622026440029"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622026440037"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622026440062"
+  },
+  "runtime": 11,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622026440067"
+  },
+  "runtime": 25,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622026440165"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622026440172"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622026440177"
+  },
+  "runtime": 12,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440183"
+  },
+  "runtime": 2,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026440197"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026440207"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026440202"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026440216"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026440212"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026440233"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622026440238"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622026440243"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622026440249"
+  },
+  "runtime": 11,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026440265"
+  },
+  "runtime": 2,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622026440270"
+  },
+  "runtime": 16,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622026440274"
+  },
+  "runtime": 36,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "FrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440280"
+  },
+  "runtime": 99,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440299"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622026440284"
+  },
+  "runtime": 212,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440311"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440306"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622026440321"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622026440325"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetMyRePlanClickDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyRePlanView$MyRePlanClick;)V",
+  "timestamp": {
+    "$numberLong": "1622026440329"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622026440334"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622026440343"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622026440338"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622026440351"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622026440347"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622026440360"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622026440355"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622026440364"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetRePlanSelectDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/AddRePlanSortListAdapter$RePlanSelect;)V",
+  "timestamp": {
+    "$numberLong": "1622026440371"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622026440380"
+  },
+  "runtime": 91,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622026440375"
+  },
+  "runtime": 56,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onActivityCreatedDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622026440384"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026440392"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026440397"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026440401"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026440405"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026440410"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622026440419"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440414"
+  },
+  "runtime": 22,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440424"
+  },
+  "runtime": 6,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440419"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefreshDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440429"
+  },
+  "runtime": 40,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440424"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440437"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440433"
+  },
+  "runtime": 44,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622026440443"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622026440447"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440458"
+  },
+  "runtime": 16,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622026440453"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440462"
+  },
+  "runtime": 20,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026440467"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026440571"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026440582"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622026440587"
+  },
+  "runtime": 10,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$300Delta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/StatisticsFragment;II)V",
+  "timestamp": {
+    "$numberLong": "1622026440592"
+  },
+  "runtime": 15,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "handleMessageDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$2",
+  "descript": "(Landroid/os/Message;)V",
+  "timestamp": {
+    "$numberLong": "1622026440597"
+  },
+  "runtime": 20,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026440678"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026440711"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961520"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961541"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961524"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622026961544"
+  },
+  "runtime": 56,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961516"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622026961535"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622026961484"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961510"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961529"
+  },
+  "runtime": 23,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961506"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961534"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961541"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622026961555"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622026961559"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622026961571"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622026961601"
+  },
+  "runtime": 25,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622026961597"
+  },
+  "runtime": 12,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622026961703"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622026961698"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622026961707"
+  },
+  "runtime": 9,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961713"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961723"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961729"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961737"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961733"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961742"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026961757"
+  },
+  "runtime": 6,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622026961769"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622026961764"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622026961776"
+  },
+  "runtime": 12,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026961788"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622026961795"
+  },
+  "runtime": 14,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622026961806"
+  },
+  "runtime": 42,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622026961815"
+  },
+  "runtime": 209,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "FrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961810"
+  },
+  "runtime": 98,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961829"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961836"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961841"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622026961851"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetMyRePlanClickDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyRePlanView$MyRePlanClick;)V",
+  "timestamp": {
+    "$numberLong": "1622026961860"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622026961855"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622026961877"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622026961869"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622026961864"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622026961873"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622026961882"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622026961886"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622026961890"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622026961895"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetRePlanSelectDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/AddRePlanSortListAdapter$RePlanSelect;)V",
+  "timestamp": {
+    "$numberLong": "1622026961901"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622026961906"
+  },
+  "runtime": 57,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622026961910"
+  },
+  "runtime": 91,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onActivityCreatedDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622026961915"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961923"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961928"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961932"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961936"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961945"
+  },
+  "runtime": 22,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622026961940"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961955"
+  },
+  "runtime": 6,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961950"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefreshDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961959"
+  },
+  "runtime": 40,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622026961950"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961955"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961963"
+  },
+  "runtime": 44,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961967"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622026961973"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622026961978"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622026961983"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961988"
+  },
+  "runtime": 16,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961992"
+  },
+  "runtime": 20,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622026961998"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026962105"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026962115"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622026962119"
+  },
+  "runtime": 9,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$300Delta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/StatisticsFragment;II)V",
+  "timestamp": {
+    "$numberLong": "1622026962123"
+  },
+  "runtime": 13,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "handleMessageDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$2",
+  "descript": "(Landroid/os/Message;)V",
+  "timestamp": {
+    "$numberLong": "1622026962128"
+  },
+  "runtime": 18,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026962208"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622026962260"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622026967018"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046203"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046215"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046211"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046207"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027046235"
+  },
+  "runtime": 51,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027046180"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046226"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622027046226"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046231"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027046244"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046220"
+  },
+  "runtime": 22,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046198"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046231"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027046249"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027046262"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027046286"
+  },
+  "runtime": 11,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027046292"
+  },
+  "runtime": 26,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027046399"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622027046406"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027046410"
+  },
+  "runtime": 11,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046416"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046426"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046431"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046437"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046447"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046441"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027046463"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027046467"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027046471"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622027046475"
+  },
+  "runtime": 8,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027046487"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622027046492"
+  },
+  "runtime": 13,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "FrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046504"
+  },
+  "runtime": 89,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027046498"
+  },
+  "runtime": 31,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027046509"
+  },
+  "runtime": 213,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046525"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046531"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046536"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027046550"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622027046546"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetMyRePlanClickDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyRePlanView$MyRePlanClick;)V",
+  "timestamp": {
+    "$numberLong": "1622027046555"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027046559"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027046564"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027046568"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027046572"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027046577"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027046581"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027046590"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027046585"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetRePlanSelectDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/AddRePlanSortListAdapter$RePlanSelect;)V",
+  "timestamp": {
+    "$numberLong": "1622027046596"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027046601"
+  },
+  "runtime": 57,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027046605"
+  },
+  "runtime": 90,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onActivityCreatedDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027046609"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046618"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046622"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046627"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046632"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027046636"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046640"
+  },
+  "runtime": 22,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046645"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046650"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622027046645"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefreshDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046654"
+  },
+  "runtime": 40,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046651"
+  },
+  "runtime": 6,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046663"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046659"
+  },
+  "runtime": 45,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622027046668"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027046673"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027046678"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046687"
+  },
+  "runtime": 20,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046683"
+  },
+  "runtime": 16,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027046692"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027046798"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027046810"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622027046814"
+  },
+  "runtime": 11,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$300Delta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/StatisticsFragment;II)V",
+  "timestamp": {
+    "$numberLong": "1622027046819"
+  },
+  "runtime": 16,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "handleMessageDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$2",
+  "descript": "(Landroid/os/Message;)V",
+  "timestamp": {
+    "$numberLong": "1622027046823"
+  },
+  "runtime": 20,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027046897"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027046941"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027056406"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027066645"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027066666"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027066670"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027066674"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027066679"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027066683"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027066687"
+  },
+  "runtime": 21,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622027066693"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027066693"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027066702"
+  },
+  "runtime": 53,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027066697"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027066697"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027066710"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027066714"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027066727"
+  },
+  "runtime": 8,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027066757"
+  },
+  "runtime": 26,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027066752"
+  },
+  "runtime": 11,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027066858"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622027066863"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027066867"
+  },
+  "runtime": 9,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027066872"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027066886"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027066882"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027066891"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027066895"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027066902"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027066927"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027066917"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027066922"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622027066931"
+  },
+  "runtime": 9,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027066942"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622027066948"
+  },
+  "runtime": 12,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027066953"
+  },
+  "runtime": 31,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "FrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027066958"
+  },
+  "runtime": 87,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027066966"
+  },
+  "runtime": 204,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027066982"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027066989"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027066994"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622027067003"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetMyRePlanClickDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyRePlanView$MyRePlanClick;)V",
+  "timestamp": {
+    "$numberLong": "1622027067012"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027067008"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027067016"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027067021"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027067025"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027067029"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027067034"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027067038"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027067047"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027067042"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetRePlanSelectDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/AddRePlanSortListAdapter$RePlanSelect;)V",
+  "timestamp": {
+    "$numberLong": "1622027067053"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027067058"
+  },
+  "runtime": 56,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027067062"
+  },
+  "runtime": 90,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onActivityCreatedDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027067067"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027067075"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027067079"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027067084"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027067088"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027067097"
+  },
+  "runtime": 22,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027067092"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622027067102"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027067107"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027067102"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027067106"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefreshDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027067111"
+  },
+  "runtime": 40,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027067115"
+  },
+  "runtime": 44,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027067119"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622027067124"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027067129"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027067135"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027067139"
+  },
+  "runtime": 16,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027067144"
+  },
+  "runtime": 21,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027067149"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027067212"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027067223"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622027067227"
+  },
+  "runtime": 9,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$300Delta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/StatisticsFragment;II)V",
+  "timestamp": {
+    "$numberLong": "1622027067232"
+  },
+  "runtime": 14,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "handleMessageDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$2",
+  "descript": "(Landroid/os/Message;)V",
+  "timestamp": {
+    "$numberLong": "1622027067236"
+  },
+  "runtime": 18,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027067314"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027067356"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027303783"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027303791"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027303763"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027303787"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027303795"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027303803"
+  },
+  "runtime": 20,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027303799"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027303816"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622027303809"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027303813"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027303809"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027303819"
+  },
+  "runtime": 52,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027303830"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027303834"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027303844"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027303872"
+  },
+  "runtime": 12,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027303876"
+  },
+  "runtime": 25,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622027303979"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027303974"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027303984"
+  },
+  "runtime": 9,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027303989"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027304001"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027304007"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027304012"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027304016"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027304021"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027304039"
+  },
+  "runtime": 6,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027304044"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027304048"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622027304052"
+  },
+  "runtime": 8,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027304067"
+  },
+  "runtime": 2,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027304077"
+  },
+  "runtime": 33,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622027304072"
+  },
+  "runtime": 15,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "FrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304081"
+  },
+  "runtime": 93,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027304085"
+  },
+  "runtime": 203,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304107"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304113"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304119"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622027304128"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027304133"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetMyRePlanClickDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyRePlanView$MyRePlanClick;)V",
+  "timestamp": {
+    "$numberLong": "1622027304137"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027304141"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027304146"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027304155"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027304150"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027304159"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027304163"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027304168"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027304172"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027304184"
+  },
+  "runtime": 57,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetRePlanSelectDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/AddRePlanSortListAdapter$RePlanSelect;)V",
+  "timestamp": {
+    "$numberLong": "1622027304179"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027304188"
+  },
+  "runtime": 92,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onActivityCreatedDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027304193"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027304207"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027304202"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027304211"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027304216"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027304220"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304225"
+  },
+  "runtime": 23,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622027304230"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304234"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304230"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304234"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefreshDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304239"
+  },
+  "runtime": 41,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304243"
+  },
+  "runtime": 45,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304248"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622027304254"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027304264"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027304258"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304269"
+  },
+  "runtime": 17,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304273"
+  },
+  "runtime": 21,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027304279"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027304388"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622027304406"
+  },
+  "runtime": 11,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027304401"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "handleMessageDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$2",
+  "descript": "(Landroid/os/Message;)V",
+  "timestamp": {
+    "$numberLong": "1622027304415"
+  },
+  "runtime": 20,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$300Delta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/StatisticsFragment;II)V",
+  "timestamp": {
+    "$numberLong": "1622027304411"
+  },
+  "runtime": 16,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027304518"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027304483"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027312591"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027316731"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027316709"
+  },
+  "runtime": 6,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027316740"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027316735"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027316744"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027316748"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027316753"
+  },
+  "runtime": 22,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027316759"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027316764"
+  },
+  "runtime": 6,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622027316759"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027316768"
+  },
+  "runtime": 9,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027316768"
+  },
+  "runtime": 55,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027316779"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027316785"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622027316793"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027316818"
+  },
+  "runtime": 12,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027316822"
+  },
+  "runtime": 25,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027316929"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027316937"
+  },
+  "runtime": 9,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622027316933"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027316942"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027316953"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027316957"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027316962"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027316966"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027316970"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027316988"
+  },
+  "runtime": 6,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027316992"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622027316997"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622027317001"
+  },
+  "runtime": 9,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622027317016"
+  },
+  "runtime": 10,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027317012"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "FrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317027"
+  },
+  "runtime": 86,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027317022"
+  },
+  "runtime": 30,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317049"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027317032"
+  },
+  "runtime": 205,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317056"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317061"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622027317070"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027317075"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetMyRePlanClickDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyRePlanView$MyRePlanClick;)V",
+  "timestamp": {
+    "$numberLong": "1622027317079"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027317084"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027317088"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027317093"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027317101"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027317097"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027317106"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622027317110"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622027317114"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetRePlanSelectDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/AddRePlanSortListAdapter$RePlanSelect;)V",
+  "timestamp": {
+    "$numberLong": "1622027317121"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622027317125"
+  },
+  "runtime": 56,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622027317130"
+  },
+  "runtime": 93,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onActivityCreatedDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622027317134"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027317142"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027317151"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027317147"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027317159"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622027317155"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317163"
+  },
+  "runtime": 21,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317169"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317173"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622027317169"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefreshDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317178"
+  },
+  "runtime": 39,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317182"
+  },
+  "runtime": 43,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317174"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317187"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622027317192"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027317197"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317207"
+  },
+  "runtime": 16,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622027317203"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317212"
+  },
+  "runtime": 21,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622027317217"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027317279"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027317290"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$300Delta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/StatisticsFragment;II)V",
+  "timestamp": {
+    "$numberLong": "1622027317300"
+  },
+  "runtime": 15,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622027317296"
+  },
+  "runtime": 11,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "handleMessageDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$2",
+  "descript": "(Landroid/os/Message;)V",
+  "timestamp": {
+    "$numberLong": "1622027317304"
+  },
+  "runtime": 19,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027317385"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622027317428"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622029519318"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519356"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519366"
+  },
+  "runtime": 26,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622029519372"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519340"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519372"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519360"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519376"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519350"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519379"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622029519392"
+  },
+  "runtime": 7,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519346"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622029519381"
+  },
+  "runtime": 58,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622029519396"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1622029519404"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622029519429"
+  },
+  "runtime": 11,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622029519436"
+  },
+  "runtime": 28,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622029519546"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622029519541"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519555"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622029519550"
+  },
+  "runtime": 9,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519568"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519564"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519573"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519581"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519577"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622029519598"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622029519609"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622029519603"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622029519614"
+  },
+  "runtime": 11,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622029519633"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622029519639"
+  },
+  "runtime": 13,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622029519645"
+  },
+  "runtime": 42,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "FrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519649"
+  },
+  "runtime": 95,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622029519653"
+  },
+  "runtime": 213,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519668"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519674"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519679"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622029519689"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetMyRePlanClickDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyRePlanView$MyRePlanClick;)V",
+  "timestamp": {
+    "$numberLong": "1622029519698"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622029519694"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622029519702"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622029519706"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622029519715"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622029519711"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnMinuteChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnMinuteChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622029519719"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewMinuteDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622029519723"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setViewHourDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1622029519728"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setOnHourChangeListenerDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyTimePickView",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/MyTimePickView$OnHourChangeListener;)V",
+  "timestamp": {
+    "$numberLong": "1622029519732"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SetRePlanSelectDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Lwww/littlefoxes/reftime/RePlanViewHelper/AddRePlanSortListAdapter$RePlanSelect;)V",
+  "timestamp": {
+    "$numberLong": "1622029519738"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622029519743"
+  },
+  "runtime": 56,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1622029519748"
+  },
+  "runtime": 90,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onActivityCreatedDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622029519752"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519760"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519765"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519774"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519769"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029519778"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519782"
+  },
+  "runtime": 22,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622029519788"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519788"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519793"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519792"
+  },
+  "runtime": 5,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519801"
+  },
+  "runtime": 44,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefreshDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519797"
+  },
+  "runtime": 40,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519806"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622029519811"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622029519815"
+  },
+  "runtime": 4,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622029519821"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519830"
+  },
+  "runtime": 20,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519826"
+  },
+  "runtime": 16,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029519835"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622029519898"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622029519909"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622029519916"
+  },
+  "runtime": 13,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "handleMessageDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$2",
+  "descript": "(Landroid/os/Message;)V",
+  "timestamp": {
+    "$numberLong": "1622029519925"
+  },
+  "runtime": 22,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$300Delta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/StatisticsFragment;II)V",
+  "timestamp": {
+    "$numberLong": "1622029519921"
+  },
+  "runtime": 18,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622029520033"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029525844"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029525872"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029525886"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029525898"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029525912"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$1",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622029525928"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622029525959"
+  },
+  "runtime": 2,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622029525976"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeBtnStyleDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/widget/Button;Z)V",
+  "timestamp": {
+    "$numberLong": "1622029525993"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "BtnAnimationDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(ILandroid/widget/Button;)V",
+  "timestamp": {
+    "$numberLong": "1622029526010"
+  },
+  "runtime": 34,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622029526041"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622029526059"
+  },
+  "runtime": 32,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1622029526076"
+  },
+  "runtime": 100,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "FrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622029526092"
+  },
+  "runtime": 249,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622029526230"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622031325905"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622211182419"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622211182444"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622211182431"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622211182408"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "compareDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+  "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+  "timestamp": {
+    "$numberLong": "1622211182390"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "SortMyListsDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622211182458"
+  },
+  "runtime": 68,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "timeRefreshDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622211182474"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$502Delta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/RecordFragment;Z)Z",
+  "timestamp": {
+    "$numberLong": "1622211182475"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "initDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622211182490"
+  },
+  "runtime": 18,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622211182488"
+  },
+  "runtime": 13,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefreshDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622211182503"
+  },
+  "runtime": 127,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RecordFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622211182517"
+  },
+  "runtime": 141,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622211182533"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "ChangeDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)Ljava/util/List;",
+  "timestamp": {
+    "$numberLong": "1622211182548"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "setmRecordListDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.MyRePlanView",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622211182562"
+  },
+  "runtime": 14,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.RePlanViewHelper.AddRePlanSortListAdapter",
+  "descript": "(Ljava/util/List;)V",
+  "timestamp": {
+    "$numberLong": "1622211182581"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "RefrashDataDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622211182596"
+  },
+  "runtime": 50,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622211182610"
+  },
+  "runtime": 64,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1622211182627"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "showChartDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622211182678"
+  },
+  "runtime": 1,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "DateChangeDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1622211182685"
+  },
+  "runtime": 16,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "access$300Delta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment",
+  "descript": "(Lwww/littlefoxes/reftime/fragment/StatisticsFragment;II)V",
+  "timestamp": {
+    "$numberLong": "1622211182692"
+  },
+  "runtime": 23,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "handleMessageDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$2",
+  "descript": "(Landroid/os/Message;)V",
+  "timestamp": {
+    "$numberLong": "1622211182705"
+  },
+  "runtime": 36,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onPageFinishedDelta",
+  "class": "www.littlefoxes.reftime.fragment.StatisticsFragment$3",
+  "descript": "(Landroid/webkit/WebView;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1622211182810"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "www.littlefoxes.reftime.fragment.RePlanFragment",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1622211191361"
+  },
+  "runtime": 0,
+  "uid": "1332AC4840A990DA27DD27B689E24704"
+}]

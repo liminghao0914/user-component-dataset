@@ -1,0 +1,7281 @@
+[{
+  "type": "session",
+  "status": "attachBaseContextDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1618647263227"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.b",
+  "descript": "(Landroid/content/Context;)Z",
+  "timestamp": {
+    "$numberLong": "1618647263366"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647263454"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Landroid/content/Context;",
+  "timestamp": {
+    "$numberLong": "1618647263479"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "eDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647263487"
+  },
+  "runtime": 33,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "(Lcom/androvid/AndrovidApplication;)V",
+  "timestamp": {
+    "$numberLong": "1618647263494"
+  },
+  "runtime": 40,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "gDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647263501"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647263509"
+  },
+  "runtime": 152,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "tDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647263872"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647263882"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "(Ljava/lang/String;)I",
+  "timestamp": {
+    "$numberLong": "1618647263889"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647263895"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647263902"
+  },
+  "runtime": 20,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "rDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647263908"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "sDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647263914"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647263927"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647263920"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647263933"
+  },
+  "runtime": 13,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647263943"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647263951"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "kDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647263958"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647263969"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647263978"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "lDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647263988"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647264000"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647264006"
+  },
+  "runtime": 6,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647264019"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "mDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647264028"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647264040"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "jDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647264053"
+  },
+  "runtime": 13,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647264070"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "oDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647264089"
+  },
+  "runtime": 19,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647264111"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "pDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647264124"
+  },
+  "runtime": 13,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647264131"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "hDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647264137"
+  },
+  "runtime": 6,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647264143"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "iDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647264150"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647264157"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "qDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647264164"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(Landroid/app/Activity;)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647264189"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.util.e",
+  "descript": "(Landroid/app/Activity;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1618647264198"
+  },
+  "runtime": 18,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647264207"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647264215"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647264222"
+  },
+  "runtime": 15,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647264248"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647264254"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647264260"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647264579"
+  },
+  "runtime": 1024,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647264675"
+  },
+  "runtime": 80,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPostResumeDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647264699"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647265544"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647265560"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647265568"
+  },
+  "runtime": 24,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateOptionsMenuDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/Menu;)Z",
+  "timestamp": {
+    "$numberLong": "1618647265577"
+  },
+  "runtime": 34,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a",
+  "descript": "()Lcom/androvid/a;",
+  "timestamp": {
+    "$numberLong": "1618647266293"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647266302"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647266310"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647266318"
+  },
+  "runtime": 16,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647266484"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647266477"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647266491"
+  },
+  "runtime": 14,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a",
+  "descript": "(Landroid/app/Application;)V",
+  "timestamp": {
+    "$numberLong": "1618647266585"
+  },
+  "runtime": 42,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.a",
+  "descript": "(Landroid/app/Application;Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1618647266600"
+  },
+  "runtime": 123,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.a",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647266625"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a",
+  "descript": "(Landroid/app/Application;Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1618647266632"
+  },
+  "runtime": 330,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Landroid/content/Context;",
+  "timestamp": {
+    "$numberLong": "1618647266643"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647266659"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647266673"
+  },
+  "runtime": 14,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647266667"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.a",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647266680"
+  },
+  "runtime": 21,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "vDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647266689"
+  },
+  "runtime": 397,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onRequestPermissionsResultDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(I[Ljava/lang/String;[I)V",
+  "timestamp": {
+    "$numberLong": "1618647266698"
+  },
+  "runtime": 417,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPostResumeDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647266709"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.MyAppGlideModule",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647266801"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647266831"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "iDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647266843"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266862"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "jDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647266850"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266869"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Landroid/net/Uri;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266876"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.d",
+  "descript": "(Z)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266885"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.d",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266900"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.d",
+  "descript": "(I)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266908"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266921"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266931"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Landroid/net/Uri;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266946"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.d",
+  "descript": "(Z)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266959"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.d",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266972"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.d",
+  "descript": "(I)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647266992"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647267003"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647267013"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Landroid/net/Uri;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647267029"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.d",
+  "descript": "(Z)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647267045"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.d",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647267055"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.d",
+  "descript": "(I)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647267063"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.HomeActivity$b",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647267075"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity$b",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647267086"
+  },
+  "runtime": 11,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647267104"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Lcom/androvid/videokit/HomeActivity;Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647267119"
+  },
+  "runtime": 14,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647267128"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Lcom/androvid/videokit/HomeActivity;Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647267136"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647267150"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Lcom/androvid/videokit/HomeActivity;Landroid/view/View;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647267162"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "uDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647267170"
+  },
+  "runtime": 371,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "gDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647267178"
+  },
+  "runtime": 379,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onInitializationFinishedDelta",
+  "class": "com.androvid.a$1",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647268100"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "com.androvid.AndrovidApplication$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647268502"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Lcom/androvid/videokit/HomeActivity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647274147"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "(Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647274135"
+  },
+  "runtime": 5,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchDelta",
+  "class": "com.androvid.videokit.HomeActivity$7",
+  "descript": "(Landroid/view/View;Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647274156"
+  },
+  "runtime": 26,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchDelta",
+  "class": "com.androvid.videokit.HomeActivity$7",
+  "descript": "(Landroid/view/View;Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647274163"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchDelta",
+  "class": "com.androvid.videokit.HomeActivity$7",
+  "descript": "(Landroid/view/View;Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647274178"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchDelta",
+  "class": "com.androvid.videokit.HomeActivity$7",
+  "descript": "(Landroid/view/View;Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647274189"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.HomeActivity$b",
+  "descript": "(Lcom/androvid/videokit/HomeActivity$b;)Landroid/app/Activity;",
+  "timestamp": {
+    "$numberLong": "1618647274203"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.util.a",
+  "descript": "(Landroid/graphics/Bitmap;Landroid/view/View;)Landroid/os/Bundle;",
+  "timestamp": {
+    "$numberLong": "1618647274210"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "com.androvid.videokit.HomeActivity$b$2",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1618647274226"
+  },
+  "runtime": 28,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647274266"
+  },
+  "runtime": 6,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "attachBaseContextDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1618647274288"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "iDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274287"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.b",
+  "descript": "(Landroid/content/Context;)Z",
+  "timestamp": {
+    "$numberLong": "1618647274297"
+  },
+  "runtime": 3,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "jDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274302"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.util.a",
+  "descript": "(Landroid/app/Activity;)I",
+  "timestamp": {
+    "$numberLong": "1618647274293"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274309"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274318"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274325"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274333"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274342"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274352"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274350"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274357"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Landroid/content/Context;",
+  "timestamp": {
+    "$numberLong": "1618647274358"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274364"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274372"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274378"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274385"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "eDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274382"
+  },
+  "runtime": 29,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "gDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274387"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274397"
+  },
+  "runtime": 103,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274392"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274400"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "(Lcom/androvid/AndrovidApplication;)V",
+  "timestamp": {
+    "$numberLong": "1618647274390"
+  },
+  "runtime": 37,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274406"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274412"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274419"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274426"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274432"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274438"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274444"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274452"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274459"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274474"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274466"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274484"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274492"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274499"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274507"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274515"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274521"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274528"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274535"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274542"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274549"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274556"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274564"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274571"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274576"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274582"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274588"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274595"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274600"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274606"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274614"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274621"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274627"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274633"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274640"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274651"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274661"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274668"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274676"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274683"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274689"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274696"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274702"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274709"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274715"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274721"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274729"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274737"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274745"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274751"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274759"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274766"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274773"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274781"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274788"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onFinishInflateDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274797"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuSelectionListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/i;)V",
+  "timestamp": {
+    "$numberLong": "1618647274813"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setOnMenuTouchListenerDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem$a;)V",
+  "timestamp": {
+    "$numberLong": "1618647274805"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "setMenuInfoDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/m;)V",
+  "timestamp": {
+    "$numberLong": "1618647274820"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647274832"
+  },
+  "runtime": 4,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647274846"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647274839"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647274853"
+  },
+  "runtime": 14,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647274903"
+  },
+  "runtime": 642,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.a",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647274913"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(IZ)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647274923"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "iDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274935"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "rDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274941"
+  },
+  "runtime": 18,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "hDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274950"
+  },
+  "runtime": 27,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274957"
+  },
+  "runtime": 45,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274966"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647274973"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onWindowFocusChangedDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity",
+  "descript": "(Z)V",
+  "timestamp": {
+    "$numberLong": "1618647275313"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647275324"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "oDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647275370"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647275378"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$1",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647275386"
+  },
+  "runtime": 16,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647275427"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647275433"
+  },
+  "runtime": 6,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$1",
+  "descript": "(J)V",
+  "timestamp": {
+    "$numberLong": "1618647275439"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStopDelta",
+  "class": "com.androvid.videokit.HomeActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647278028"
+  },
+  "runtime": 3,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchDelta",
+  "class": "com.androvid.videokit.GridMenuItem$2",
+  "descript": "(Landroid/view/View;Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647278829"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647278836"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647278848"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647278842"
+  },
+  "runtime": 6,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647278855"
+  },
+  "runtime": 19,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647278861"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647278867"
+  },
+  "runtime": 6,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647278873"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647278880"
+  },
+  "runtime": 19,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647278885"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647278891"
+  },
+  "runtime": 6,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647278896"
+  },
+  "runtime": 11,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647278902"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/i;",
+  "timestamp": {
+    "$numberLong": "1618647278912"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/i;",
+  "timestamp": {
+    "$numberLong": "1618647278918"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647278924"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.videokit.b",
+  "descript": "(Landroid/content/Context;)Z",
+  "timestamp": {
+    "$numberLong": "1618647278962"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.b",
+  "descript": "(Landroid/app/Activity;)Z",
+  "timestamp": {
+    "$numberLong": "1618647278972"
+  },
+  "runtime": 11,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647278983"
+  },
+  "runtime": 53,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647278988"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.a.b",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647278977"
+  },
+  "runtime": 16,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647278994"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647278999"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647279005"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "com.androvid.videokit.GridMenuItem$1",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1618647279010"
+  },
+  "runtime": 98,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPauseDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647279025"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(Ljava/lang/Boolean;Landroid/app/Activity;)V",
+  "timestamp": {
+    "$numberLong": "1618647279045"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(Landroid/app/Activity;)V",
+  "timestamp": {
+    "$numberLong": "1618647279052"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "(Z)V",
+  "timestamp": {
+    "$numberLong": "1618647279083"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647279089"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647279095"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647279102"
+  },
+  "runtime": 13,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647279119"
+  },
+  "runtime": 75,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.a",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647279129"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647279139"
+  },
+  "runtime": 11,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647279147"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPostResumeDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647279156"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onWindowFocusChangedDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity",
+  "descript": "(Z)V",
+  "timestamp": {
+    "$numberLong": "1618647279199"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateOptionsMenuDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "(Landroid/view/Menu;)Z",
+  "timestamp": {
+    "$numberLong": "1618647279238"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPrepareOptionsMenuDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "(Landroid/view/Menu;)Z",
+  "timestamp": {
+    "$numberLong": "1618647279245"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647279258"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "com.androvid.AndrovidApplication$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647279387"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStopDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647279576"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.v",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647279584"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647279591"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "(Landroid/view/MotionEvent;)V",
+  "timestamp": {
+    "$numberLong": "1618647280663"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onOptionsItemSelectedDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "(Landroid/view/MenuItem;)Z",
+  "timestamp": {
+    "$numberLong": "1618647285415"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPauseDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647285428"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onRestartDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647285448"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.a",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647285457"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(IZ)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647285466"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "iDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647285474"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "rDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647285482"
+  },
+  "runtime": 16,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647285500"
+  },
+  "runtime": 44,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "hDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647285489"
+  },
+  "runtime": 23,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647285509"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647285517"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onWindowFocusChangedDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity",
+  "descript": "(Z)V",
+  "timestamp": {
+    "$numberLong": "1618647285565"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647285579"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchDelta",
+  "class": "com.androvid.videokit.GridMenuItem$2",
+  "descript": "(Landroid/view/View;Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647286912"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647286926"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647286938"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647286947"
+  },
+  "runtime": 21,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647286957"
+  },
+  "runtime": 31,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647286968"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647286978"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647286987"
+  },
+  "runtime": 19,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647286997"
+  },
+  "runtime": 30,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287009"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647287018"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287029"
+  },
+  "runtime": 20,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647287041"
+  },
+  "runtime": 32,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287052"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647287064"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287073"
+  },
+  "runtime": 21,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647287080"
+  },
+  "runtime": 28,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/i;",
+  "timestamp": {
+    "$numberLong": "1618647287093"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/i;",
+  "timestamp": {
+    "$numberLong": "1618647287102"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647287110"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.videokit.b",
+  "descript": "(Landroid/content/Context;)Z",
+  "timestamp": {
+    "$numberLong": "1618647287163"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.a.b",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647287177"
+  },
+  "runtime": 14,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.b",
+  "descript": "(Landroid/app/Activity;)Z",
+  "timestamp": {
+    "$numberLong": "1618647287171"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647287184"
+  },
+  "runtime": 65,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647287190"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647287196"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647287202"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647287211"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "com.androvid.videokit.GridMenuItem$1",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1618647287218"
+  },
+  "runtime": 125,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPauseDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287235"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647287269"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "iDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647287278"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "jDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647287288"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647287297"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647287305"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Landroid/net/Uri;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647287312"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647287327"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647287333"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647287339"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647287359"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647287370"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647287378"
+  },
+  "runtime": 19,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "zDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287388"
+  },
+  "runtime": 29,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647287397"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "yDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287404"
+  },
+  "runtime": 44,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZI)V",
+  "timestamp": {
+    "$numberLong": "1618647287412"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZI)V",
+  "timestamp": {
+    "$numberLong": "1618647287420"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "IDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287427"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647287434"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647287447"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647287453"
+  },
+  "runtime": 19,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647287492"
+  },
+  "runtime": 239,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.a",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647287537"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287564"
+  },
+  "runtime": 63,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287573"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647287617"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647287627"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647287638"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStopDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287679"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647287688"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647287698"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647287705"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onDestroyDelta",
+  "class": "com.androvid.videokit.VideoTrimActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647287712"
+  },
+  "runtime": 24,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onWindowFocusChangedDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity",
+  "descript": "(Z)V",
+  "timestamp": {
+    "$numberLong": "1618647287746"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647287803"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "iDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647287813"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "jDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647287827"
+  },
+  "runtime": 14,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647287850"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647287861"
+  },
+  "runtime": 11,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647287870"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647288005"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647288014"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647288024"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647288140"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647288151"
+  },
+  "runtime": 11,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647288161"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStopDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647288180"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.v",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647288188"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647288197"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "CDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647289867"
+  },
+  "runtime": 44,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647289857"
+  },
+  "runtime": 33,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(IILjava/lang/Object;)V",
+  "timestamp": {
+    "$numberLong": "1618647289880"
+  },
+  "runtime": 57,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZI)V",
+  "timestamp": {
+    "$numberLong": "1618647291202"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZI)V",
+  "timestamp": {
+    "$numberLong": "1618647291219"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647291231"
+  },
+  "runtime": 29,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZI)V",
+  "timestamp": {
+    "$numberLong": "1618647292334"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZI)V",
+  "timestamp": {
+    "$numberLong": "1618647292320"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647292347"
+  },
+  "runtime": 28,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647294178"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647294191"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647294202"
+  },
+  "runtime": 24,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "zDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647294214"
+  },
+  "runtime": 36,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647294226"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "yDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647294234"
+  },
+  "runtime": 57,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "jDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647294241"
+  },
+  "runtime": 64,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294277"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294269"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294284"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294395"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294405"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294414"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294539"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294548"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294558"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294654"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294664"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647294673"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647295837"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "TDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647295847"
+  },
+  "runtime": 11,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(IILjava/lang/Object;)V",
+  "timestamp": {
+    "$numberLong": "1618647295855"
+  },
+  "runtime": 20,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647301263"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647301277"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647301285"
+  },
+  "runtime": 22,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "zDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647301293"
+  },
+  "runtime": 30,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647301301"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "yDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647301308"
+  },
+  "runtime": 46,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "jDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647301315"
+  },
+  "runtime": 53,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301345"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301356"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301364"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301495"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301487"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301502"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301593"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301602"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301611"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301714"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301724"
+  },
+  "runtime": 11,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647301734"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Ljava/lang/String;I)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647303032"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Ljava/lang/String;I)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647303047"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Ljava/lang/String;I)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647303058"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Ljava/lang/String;I)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647303070"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "MDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()[Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647303093"
+  },
+  "runtime": 62,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Ljava/lang/String;I)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647303081"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "LDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647303129"
+  },
+  "runtime": 100,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1618647303138"
+  },
+  "runtime": 109,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647303184"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "xDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()[I",
+  "timestamp": {
+    "$numberLong": "1618647305461"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "ADelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647305480"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "xDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()[I",
+  "timestamp": {
+    "$numberLong": "1618647305470"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647305489"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647305498"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647305505"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647305514"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647305523"
+  },
+  "runtime": 18,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "PDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647305532"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "NDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647305540"
+  },
+  "runtime": 43,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647305549"
+  },
+  "runtime": 69,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity$3",
+  "descript": "(Landroid/content/DialogInterface;I)V",
+  "timestamp": {
+    "$numberLong": "1618647305557"
+  },
+  "runtime": 96,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647305784"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647305793"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "attachBaseContextDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1618647305793"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.b",
+  "descript": "(Landroid/content/Context;)Z",
+  "timestamp": {
+    "$numberLong": "1618647305803"
+  },
+  "runtime": 4,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647305857"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647305876"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "eDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647305894"
+  },
+  "runtime": 15,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Landroid/content/Context;",
+  "timestamp": {
+    "$numberLong": "1618647305887"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "(Lcom/androvid/AndrovidApplication;)V",
+  "timestamp": {
+    "$numberLong": "1618647305902"
+  },
+  "runtime": 23,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "gDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647305905"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647305913"
+  },
+  "runtime": 114,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "com.androvid.AndrovidApplication$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647310906"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "IDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647336312"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647336328"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647336342"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647336356"
+  },
+  "runtime": 28,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "zDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647336368"
+  },
+  "runtime": 40,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647336380"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "yDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647336390"
+  },
+  "runtime": 62,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647336401"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "YDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647336412"
+  },
+  "runtime": 101,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "qDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647336426"
+  },
+  "runtime": 115,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647336495"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647336507"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647336524"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647336698"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647336710"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647336720"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647336892"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647336908"
+  },
+  "runtime": 16,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647336923"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647337092"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647337104"
+  },
+  "runtime": 12,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647337114"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Ljava/lang/String;I)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647340933"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Ljava/lang/String;I)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647340951"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Ljava/lang/String;I)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647340965"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Ljava/lang/String;I)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647340976"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Ljava/lang/String;I)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647340988"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "MDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()[Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647340997"
+  },
+  "runtime": 64,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "LDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647341023"
+  },
+  "runtime": 91,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1618647341031"
+  },
+  "runtime": 99,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647341071"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "xDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()[I",
+  "timestamp": {
+    "$numberLong": "1618647342512"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "xDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()[I",
+  "timestamp": {
+    "$numberLong": "1618647342522"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "ADelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647342533"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647342571"
+  },
+  "runtime": 39,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity$3",
+  "descript": "(Landroid/content/DialogInterface;I)V",
+  "timestamp": {
+    "$numberLong": "1618647342583"
+  },
+  "runtime": 71,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPauseDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647342610"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647342629"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647342739"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647342749"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647342757"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647342765"
+  },
+  "runtime": 15,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "PDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647342772"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "NDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647342779"
+  },
+  "runtime": 41,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Lcom/androvid/videokit/VideoEditorActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647342789"
+  },
+  "runtime": 51,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647342797"
+  },
+  "runtime": 59,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647342811"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "attachBaseContextDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1618647343042"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.b",
+  "descript": "(Landroid/content/Context;)Z",
+  "timestamp": {
+    "$numberLong": "1618647343053"
+  },
+  "runtime": 2,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStopDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647343076"
+  },
+  "runtime": 4,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647343095"
+  },
+  "runtime": 3,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647343130"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Landroid/content/Context;",
+  "timestamp": {
+    "$numberLong": "1618647343148"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "eDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647343155"
+  },
+  "runtime": 20,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "(Lcom/androvid/AndrovidApplication;)V",
+  "timestamp": {
+    "$numberLong": "1618647343165"
+  },
+  "runtime": 30,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "gDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647343168"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647343181"
+  },
+  "runtime": 130,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "runDelta",
+  "class": "com.androvid.AndrovidApplication$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647348169"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.a",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647350053"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647350074"
+  },
+  "runtime": 63,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647350084"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647350138"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity$5",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647350528"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647369130"
+  },
+  "runtime": 26,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647369146"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "zDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647369138"
+  },
+  "runtime": 34,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647369104"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647369119"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "IDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647369086"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "yDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647369153"
+  },
+  "runtime": 49,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(ZZZ)V",
+  "timestamp": {
+    "$numberLong": "1618647369162"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "qDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647369176"
+  },
+  "runtime": 91,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "YDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647369169"
+  },
+  "runtime": 84,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369229"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369241"
+  },
+  "runtime": 13,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369253"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369428"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369441"
+  },
+  "runtime": 14,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369455"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369613"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369628"
+  },
+  "runtime": 15,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369643"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369808"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369824"
+  },
+  "runtime": 16,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Ljava/lang/String;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647369839"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "abDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647370617"
+  },
+  "runtime": 33,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onBackPressedDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647370626"
+  },
+  "runtime": 42,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1618647370638"
+  },
+  "runtime": 54,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647370667"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "(Lcom/androvid/videokit/VideoEditorActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647372428"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity$9",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1618647372456"
+  },
+  "runtime": 35,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPauseDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647372468"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onRestartDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647372499"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.a",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647372509"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(IZ)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647372520"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "iDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647372527"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "rDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647372536"
+  },
+  "runtime": 16,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "hDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647372544"
+  },
+  "runtime": 24,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647372552"
+  },
+  "runtime": 44,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647372562"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647372570"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647372608"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onWindowFocusChangedDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity",
+  "descript": "(Z)V",
+  "timestamp": {
+    "$numberLong": "1618647372620"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647373665"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647373656"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647373679"
+  },
+  "runtime": 24,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647373688"
+  },
+  "runtime": 33,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647373697"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647373706"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647373714"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647373722"
+  },
+  "runtime": 25,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647373741"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647373749"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647373757"
+  },
+  "runtime": 16,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647373768"
+  },
+  "runtime": 27,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647373789"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647373798"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647373807"
+  },
+  "runtime": 18,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647373818"
+  },
+  "runtime": 29,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStopDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647375616"
+  },
+  "runtime": 4,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647375631"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647375640"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647375648"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onDestroyDelta",
+  "class": "com.androvid.videokit.VideoEditorActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647375680"
+  },
+  "runtime": 54,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376205"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647376214"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376222"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647376231"
+  },
+  "runtime": 26,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376240"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647376248"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376255"
+  },
+  "runtime": 15,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647376263"
+  },
+  "runtime": 23,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376272"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647376280"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376289"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647376296"
+  },
+  "runtime": 24,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376304"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Lcom/androvid/videokit/VideoPlayerMenuActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647376311"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity$3",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376319"
+  },
+  "runtime": 16,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onTouchEventDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Landroid/view/MotionEvent;)Z",
+  "timestamp": {
+    "$numberLong": "1618647376327"
+  },
+  "runtime": 24,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/i;",
+  "timestamp": {
+    "$numberLong": "1618647376338"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/i;",
+  "timestamp": {
+    "$numberLong": "1618647376346"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647376355"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.videokit.b",
+  "descript": "(Landroid/content/Context;)Z",
+  "timestamp": {
+    "$numberLong": "1618647376399"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.b",
+  "descript": "(Landroid/app/Activity;)Z",
+  "timestamp": {
+    "$numberLong": "1618647376416"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.a.b",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647376423"
+  },
+  "runtime": 24,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647376429"
+  },
+  "runtime": 66,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647376435"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647376441"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.GridMenuItem",
+  "descript": "(Lcom/androvid/videokit/GridMenuItem;)Lcom/androvid/videokit/m;",
+  "timestamp": {
+    "$numberLong": "1618647376446"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647376451"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onClickDelta",
+  "class": "com.androvid.videokit.GridMenuItem$1",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1618647376457"
+  },
+  "runtime": 119,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPauseDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376470"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(Ljava/lang/Boolean;Landroid/app/Activity;)V",
+  "timestamp": {
+    "$numberLong": "1618647376488"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(Landroid/app/Activity;)V",
+  "timestamp": {
+    "$numberLong": "1618647376495"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "hDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376515"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647376521"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647376528"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647376534"
+  },
+  "runtime": 13,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647376552"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647376560"
+  },
+  "runtime": 73,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.a",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647376570"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.util.a",
+  "descript": "(Landroid/app/Activity;)I",
+  "timestamp": {
+    "$numberLong": "1618647376577"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "gDelta",
+  "class": "com.androvid.util.a",
+  "descript": "(Landroid/app/Activity;)I",
+  "timestamp": {
+    "$numberLong": "1618647376585"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376595"
+  },
+  "runtime": 26,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onResumeDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376604"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647376630"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onWindowFocusChangedDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity",
+  "descript": "(Z)V",
+  "timestamp": {
+    "$numberLong": "1618647376671"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateOptionsMenuDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(Landroid/view/Menu;)Z",
+  "timestamp": {
+    "$numberLong": "1618647376690"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPrepareOptionsMenuDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(Landroid/view/Menu;)Z",
+  "timestamp": {
+    "$numberLong": "1618647376700"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSystemUiVisibilityChangeDelta",
+  "class": "com.androvid.videokit.AndrovidNoStatusBarActivity$1",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647376721"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "gDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647376733"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(Lcom/androvid/videokit/VideoCropActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647376741"
+  },
+  "runtime": 8,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onVideoSizeChangedDelta",
+  "class": "com.androvid.videokit.VideoCropActivity$3",
+  "descript": "(Landroid/media/MediaPlayer;II)V",
+  "timestamp": {
+    "$numberLong": "1618647376748"
+  },
+  "runtime": 15,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity$4",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647376756"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity$4",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647376763"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStopDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647377034"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.v",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647377045"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "com.androvid.videokit.VideoPlayerMenuActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647377054"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "gDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647377099"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(Lcom/androvid/videokit/VideoCropActivity;)V",
+  "timestamp": {
+    "$numberLong": "1618647377108"
+  },
+  "runtime": 9,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onVideoSizeChangedDelta",
+  "class": "com.androvid.videokit.VideoCropActivity$3",
+  "descript": "(Landroid/media/MediaPlayer;II)V",
+  "timestamp": {
+    "$numberLong": "1618647377116"
+  },
+  "runtime": 17,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity$4",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377125"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity$4",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377133"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377690"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377707"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377735"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377751"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377772"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377791"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377831"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377851"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377876"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377897"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377917"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377937"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377959"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377979"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647377998"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378027"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378045"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378065"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378087"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378110"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378140"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378173"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378206"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378242"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378223"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378257"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378273"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378292"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378311"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378387"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378407"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378423"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378448"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378465"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378481"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378514"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378531"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378546"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378565"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378584"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378602"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378627"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378646"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378663"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378684"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378704"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378729"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378742"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378758"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378773"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647378335"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity$4",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647379828"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(II)V",
+  "timestamp": {
+    "$numberLong": "1618647379837"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "iDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647379946"
+  },
+  "runtime": 19,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onOptionsItemSelectedDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(Landroid/view/MenuItem;)Z",
+  "timestamp": {
+    "$numberLong": "1618647379963"
+  },
+  "runtime": 36,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPauseDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647379973"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647380002"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647380012"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647380023"
+  },
+  "runtime": 21,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(Landroid/content/Context;)Z",
+  "timestamp": {
+    "$numberLong": "1618647380029"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "nDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647380063"
+  },
+  "runtime": 28,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "mDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647380072"
+  },
+  "runtime": 37,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "fDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(Landroid/app/Activity;)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647380093"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.util.e",
+  "descript": "(Landroid/app/Activity;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1618647380101"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.o",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647380121"
+  },
+  "runtime": 13,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.a",
+  "descript": "()Z",
+  "timestamp": {
+    "$numberLong": "1618647380115"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "dDelta",
+  "class": "com.androvid.AndrovidApplication",
+  "descript": "()Lcom/androvid/videokit/a;",
+  "timestamp": {
+    "$numberLong": "1618647380108"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647380132"
+  },
+  "runtime": 139,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.a.a",
+  "descript": "(Landroid/app/Activity;Ljava/lang/String;)V",
+  "timestamp": {
+    "$numberLong": "1618647380149"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStartDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647380163"
+  },
+  "runtime": 22,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPostResumeDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647380184"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateOptionsMenuDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "(Landroid/view/Menu;)Z",
+  "timestamp": {
+    "$numberLong": "1618647380308"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPrepareOptionsMenuDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "(Landroid/view/Menu;)Z",
+  "timestamp": {
+    "$numberLong": "1618647380318"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647380342"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647380456"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStopDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647380659"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "com.androvid.videokit.VideoCropActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647380675"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647380713"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "(I)V",
+  "timestamp": {
+    "$numberLong": "1618647380959"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(Ljava/lang/String;)Z",
+  "timestamp": {
+    "$numberLong": "1618647381324"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.u",
+  "descript": "(I)Lcom/androvid/videokit/u;",
+  "timestamp": {
+    "$numberLong": "1618647381336"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "pDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647381350"
+  },
+  "runtime": 1,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "qDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647381360"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateOptionsMenuDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "(Landroid/view/Menu;)Z",
+  "timestamp": {
+    "$numberLong": "1618647381381"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onPrepareOptionsMenuDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "(Landroid/view/Menu;)Z",
+  "timestamp": {
+    "$numberLong": "1618647381391"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onAttachDelta",
+  "class": "com.androvid.videokit.u",
+  "descript": "(Landroid/content/Context;)V",
+  "timestamp": {
+    "$numberLong": "1618647381410"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.d",
+  "descript": "(Landroid/net/Uri;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647381473"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.d",
+  "descript": "(Z)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647381484"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "()Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647381462"
+  },
+  "runtime": 10,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.e",
+  "descript": "(Ljava/lang/Class;)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647381453"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647381429"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "jDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647381445"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "iDelta",
+  "class": "com.androvid.c",
+  "descript": "()Lcom/androvid/c;",
+  "timestamp": {
+    "$numberLong": "1618647381438"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(IZ)Ljava/lang/String;",
+  "timestamp": {
+    "$numberLong": "1618647381519"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "aDelta",
+  "class": "com.androvid.videokit.u",
+  "descript": "(Landroid/view/View;)V",
+  "timestamp": {
+    "$numberLong": "1618647381542"
+  },
+  "runtime": 114,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "bDelta",
+  "class": "com.androvid.d",
+  "descript": "(I)Lcom/androvid/d;",
+  "timestamp": {
+    "$numberLong": "1618647381496"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onCreateViewDelta",
+  "class": "com.androvid.videokit.u",
+  "descript": "(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;",
+  "timestamp": {
+    "$numberLong": "1618647381554"
+  },
+  "runtime": 135,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "cDelta",
+  "class": "com.androvid.util.h",
+  "descript": "(Ljava/lang/String;)Z",
+  "timestamp": {
+    "$numberLong": "1618647381507"
+  },
+  "runtime": 0,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onStopDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "()V",
+  "timestamp": {
+    "$numberLong": "1618647394861"
+  },
+  "runtime": 7,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+},{
+  "type": "session",
+  "status": "onSaveInstanceStateDelta",
+  "class": "com.androvid.videokit.AndrovidRunnerActivity",
+  "descript": "(Landroid/os/Bundle;)V",
+  "timestamp": {
+    "$numberLong": "1618647394882"
+  },
+  "runtime": 3,
+  "uid": "9E2AA396AF923C0EF707CFCDC1F0D5E9"
+}]
