@@ -13,25 +13,25 @@ We divide the data set by device into these folders. Each folder contains two JS
 
 ## Data Format
 
-The data is provided in JSON. Each item includes the following fields: [].
+The data is provided in JSON. Each item includes the following fields: ["type", "status", "class", "descipt", "timestamp", "runtime", "uid"].
 
-## Data Splits
+An example of one item:
 
-The dataset is split into [number] [parts, such as "train, validation, and test"] for use in [what the data is used for, such as "training machine learning models"].
+    {
+      "type": "session",
+      "status": "compareDelta",
+      "class": "www.littlefoxes.reftime.fragment.RecordFragment$4",
+      "descript": "(Ljava/lang/Object;Ljava/lang/Object;)I",
+      "timestamp": {
+        "$numberLong": "1622026054338"
+      },
+      "runtime": 9,
+      "uid": "0F875EB3F61294A92A9AAD64D92414C8"
+    }
+
 
 # Usage
 
-To use the dataset, simply [include any specific instructions for loading or using the data].
-
-# Citing
-
-If you use this dataset in your research, please cite it as:
+To use the dataset, simply insert them into MongoDB.
 
 
-# Contributing
-
-We welcome contributions to the dataset. To contribute, please [include any specific instructions for how to contribute, such as a link to a contributing guide].
-
-# Acknowledgments
-
-We would like to thank [any individuals or organizations that contributed to or funded the creation of the dataset].
