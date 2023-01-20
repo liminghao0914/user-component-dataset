@@ -34,4 +34,24 @@ An example of one item:
 
 To use the dataset, simply insert them into MongoDB.
 
+Firstly, install ``mongoimport`` in your environment, which has already installed MongoDB.
+
+For Linux,
+
+    sudo dpkg -l mongodb-database-tools
+    
+For MacOS,
+    
+    sudo dpkg -l mongodb-database-tools
+    
+For Windows, download the MSI installer [here](https://www.mongodb.com/try/download/database-tools?tck=docs_databasetools) and add the toolkits to ``PATH``.
+
+
+After installation, insert user component data by
+
+    mongoimport --jsonArray --db db --collection [username] --[username].json
+    
+Besides the data log, we are alse required to add devices information to the database.
+
+    mongoimport --jsonArray --db db --collection devices_info --devices_info.json
 
