@@ -1,6 +1,6 @@
 # user-component-dataset
 
-This is a preliminary dataset of user component states, which is used in the published paper, [li2022blockchian](https://ieeexplore.ieee.org/document/9951342g).
+This is a preliminary dataset of user component states as an assistive statistics for mobile edge computing (MEC), which is used in the published paper, [li2022blockchian](https://ieeexplore.ieee.org/document/9951342g) and will be used in more future works.
 
 # Introduction
 
