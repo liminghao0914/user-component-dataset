@@ -49,7 +49,7 @@ For Windows, download the MSI installer [here](https://www.mongodb.com/try/downl
 
 After installation, insert user component data by
 
-    mongoimport --jsonArray --db db --collection [username] --[username].json
+    mongoimport --jsonArray --db db --collection [uid] --[uid].json
     
 Besides the data log, we are alse required to add devices information to the database.
 
