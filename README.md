@@ -4,7 +4,7 @@ This is a preliminary dataset of user component states as an assistive statistic
 
 # Introduction
 
-Welcome to the user-component-dataset open-source dataset! This dataset is intended for use in [PartFlow](https://github.com/liminghao0914/PartFlow). It contains 85081  items of component states in sequence with timestamps and is released under the [license type, such as "MIT" or "CC BY-SA 4.0"].
+Welcome to the user-component-dataset open-source dataset! This dataset is intended for use in [PartFlow](https://github.com/liminghao0914/PartFlow). It contains 85081  items of component states in sequence with timestamps and is released under the MIT LICENSE.
 
 # Data Description
 
